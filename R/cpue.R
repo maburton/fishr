@@ -3,6 +3,7 @@
 #' @param catch Numeric vector of catch
 #' @param effort Numeric vector of effort
 #' @param gear_factor integer adjustment for gear standardization
+#' @param verbose logical show message
 #'
 #' @return A numeric vector of CPUE values
 #' @export
